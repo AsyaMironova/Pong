@@ -2,7 +2,6 @@
 
 # P01D06
 
-![dayp01](misc/rus/images/dayp01.png)
 
 ## Contents
 
